@@ -1,8 +1,8 @@
 
-Dilmurod;MA;777;visa
-Shahzod;MB;444;master_card
-Dilmurod;MA;1568;visa
-DIlmurod;MA;158;visa
-DIlmurod;MA;16666;visa
-DIlmurod;MA;16666;visa
-DIlmurod;MA;16666;visa
+Sunnat;MA;777;visa
+Timur;MB;444;master_card
+Vadim;MA;1568;visa
+Umar;MA;158;visa
+Karlos;MA;16666;visa
+Sun;MA;16666;visa
+Suny;MA;16666;visa
